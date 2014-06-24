@@ -1,5 +1,5 @@
-Here you'll find sample code, slides, and exercises for Analytics for Hackers!
-==============================================================================
+Here you'll find sample code, slides, and exercises for Analytics for Developers!
+=================================================================================
 
 Course Description
 ==================
