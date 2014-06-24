@@ -1,21 +1,16 @@
-Intro to Analytics 
+Intro to Analytics
 ==================
 
-### Course Description
-
-Do you know what features in your mobile app or website are used most? Do you know what landing page converts more visitors? In this introduction to analytics class, you'll review some of the ways you can use analytics to improve your product. You'll learn analytics terms like engagement, retention, conversion, cohorts, and segmentation. You'll also explore a sample data set and do some simple exercises that illustrate data modeling and querying. 
+Do you know what features in your mobile app or website are used most? Do you know what landing page converts more visitors? In this Introduction to Analytics, you'll review some of the ways you can use analytics to improve your product. You'll learn analytics terms like engagement, retention, conversion, cohorts, and segmentation. You'll also explore a sample data set and do some simple exercises that illustrate data modeling and querying.
 
 Takeaways:
+
 * What is analytics?
 * What is event data?
 * Common terms in analytics like engagement, retention, conversion, cohorts, segmentation
 * How can you use event data to measure the above items?
 
-### Level & Prerequisites
-
-You should be curious about big data or analytics and have at least some exposure to data.  You have probably used Excel or Google Analytics at some point and are most likely working at either a software company, or on the mobile app or website for your company. Bring your laptop and a desire to learn!
-
-### Agenda:
+### Agenda
 
 We'll walk through some slides to introduce analytics concepts and work on exercises throughout.
 Summary of course exercises:
@@ -30,7 +25,7 @@ Summary of course exercises:
 Or try it using [Keen IO workbench](https://keen.io/project/527f4a5705cd666b59000003/workbench):
 keen.io.student@gmail.com  password: learningstuff
 
-  * What's the total revenue from all purchases, excluding the “High Rollers” campaign?
+  * What's the total revenue from all purchases, excluding the "High Rollers" campaign?
   * How many unique customers made purchases?
   * Which customers purchased the most products?
   * Which customers spent the most money?
